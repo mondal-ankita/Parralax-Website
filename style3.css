@@ -9,17 +9,17 @@ html,body{
 }
 
 .pic1{
-    background-image: url(paralax.jpg);
+    background-image: url(asset/paralax.jpg);
     min-height: 100%;
 }
 
 .pic2{
-    background-image: url(p2.jpg);
+    background-image: url(asset/p2.jpg);
     min-height: 80%;
 }
 
 .pic3{
-    background-image: url(p3.jpg);
+    background-image: url(asset/p3.jpg);
     min-height: 80%;
 }
 
